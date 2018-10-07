@@ -32,6 +32,7 @@ makeVector <- function(x = numeric()) {
        getmean = getmean)
 }
 
+
 ## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
